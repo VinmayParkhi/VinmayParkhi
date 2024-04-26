@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinmay Parkhi</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://lh5.googleusercontent.com/proxy/nMYIQlC3UJLaUiX-GYOzEu_e2S7FZtaioKTqwLGl3Z_uW9OzATtiymBuegD-HMKkdSXWUbg_ufZBgCtAShaa7Py6LO6CoDoYPA2MPbwfz6Qt">
 
 - 🌱 I’m currently learning **OpenShift, Jfrog**
 
