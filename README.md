@@ -6,7 +6,7 @@
 
 - 📝 I write articles on [https://hashnode.com/@Vinnmay](https://hashnode.com/@Vinnmay)
 
-- 💬 Ask me about **AWS, Azure DevOps, Jenkins**
+- 💬 Ask me about **AWS, Azure DevOps, Jenkins, RPA Automations**
 
 - 📫 How to reach me **vinmayparkhi12@gmail.com**
 
