@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate DevOps Engineer from Pune, India</h3>
 <img align="right" alt="Coding" width="400" src="https://lh5.googleusercontent.com/proxy/nMYIQlC3UJLaUiX-GYOzEu_e2S7FZtaioKTqwLGl3Z_uW9OzATtiymBuegD-HMKkdSXWUbg_ufZBgCtAShaa7Py6LO6CoDoYPA2MPbwfz6Qt">
 
-- 🌱 I’m currently learning **OpenShift, Jfrog**
+- 🌱 I’m currently learning **Data Fundamentals, Jfrog**
 
 - 📝 I write articles on [https://hashnode.com/@Vinnmay](https://hashnode.com/@Vinnmay)
 
